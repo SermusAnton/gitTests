@@ -3,3 +3,5 @@ line from user2
 Some over line
 
 some new feature user1 - rebase1
+line from user1
+line from user1 - rebase2
