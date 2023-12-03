@@ -1,4 +1,5 @@
 Хай всем!!!Как дела? Пока
 Line from user2
 Line from user1
-Critical bug fixed master, user1, rebase1
+line from user2
+line from user2 - rebase2
