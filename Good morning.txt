@@ -1,3 +1,4 @@
 Хай всем!!!Как дела? Пока
 Line from user2
 Line from user1
+Critical bug fixed master, user1, rebase1
