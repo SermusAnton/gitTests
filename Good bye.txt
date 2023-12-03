@@ -1,3 +1,5 @@
 Good night! (from master)
 line from user2
 Some over line
+
+some new feature user1 - rebase1
